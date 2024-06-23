@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/Caculator/Caculator",
+    "pages/Special/Special"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#27BA9B",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/Caculator/Caculator",
+        "text": "记账"
+      },
+      {
+        "pagePath": "pages/Special/Special",
+        "text": "统计"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

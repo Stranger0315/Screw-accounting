@@ -1,0 +1,1 @@
+<view class="container"><ec-canvas wx:if="{{a}}" id="mychart-dom-pie" u-i="303ab3ba-0" bind:__l="__l" u-p="{{a}}"></ec-canvas><ec-canvas wx:if="{{b}}" id="mychart-dom-bar" u-i="303ab3ba-1" bind:__l="__l" u-p="{{b}}"></ec-canvas></view>

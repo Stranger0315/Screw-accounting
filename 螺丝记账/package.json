@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"bootstrap-vue": "^2.23.1",
+		"echarts": "4.9.0",
+		"echarts-for-weixin": "^1.0.2",
+		"zrender": "4.3.2"
+	}
+}
